@@ -3,14 +3,21 @@ import * as S from './style';
 interface PropsType {
   title: string;
   date: string;
+  background: string;
   img: string;
   url: string;
 }
 
-export default function Project({ title, date, img, url }: PropsType) {
+export default function Project({
+  title,
+  date,
+  img,
+  background,
+  url,
+}: PropsType) {
   return (
     <S.Project>
-      <S.ImgFrame>
+      <S.ImgFrame style={{ background: `${background}` }}>
         <S.Img src={img} />
       </S.ImgFrame>
       <S.InfoWrap>

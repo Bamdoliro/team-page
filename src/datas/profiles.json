@@ -41,7 +41,7 @@
     {
       "name": "신준서",
       "part": "Designer",
-      "gitHubId": "SH1NJ00NSE0"
+      "gitHubId": "qodldks"
     },
     {
       "name": "원설아",
@@ -56,14 +56,9 @@
   ],
   [
     {
-      "name": "안예성",
-      "part": "Backend",
-      "gitHubId": "anys34"
-    },
-    {
-      "name": "최성훈",
-      "part": "Frontend",
-      "gitHubId": "seonghoon07"
+      "name": "김예진",
+      "part": "Designer",
+      "gitHubId": "Yej1n"
     },
     {
       "name": "박강원",
@@ -71,19 +66,29 @@
       "gitHubId": "akns27"
     },
     {
+      "name": "오아린",
+      "part": "Frontend",
+      "gitHubId": "oxjadex"
+    },
+    {
+      "name": "이민준",
+      "part": "Frontend",
+      "gitHubId": "MinJuN07"
+    },
+    {
+      "name": "정홍섭",
+      "part": "Frontend",
+      "gitHubId": "junghongseop"
+    },
+    {
       "name": "배재현",
       "part": "Backend",
       "gitHubId": "cabbage16"
     },
     {
-      "name": "김예진",
-      "part": "Designer",
-      "gitHubId": "Yej1n"
-    },
-    {
-      "name": "이지우",
-      "part": "Frontend",
-      "gitHubId": "E-jiwoo"
+      "name": "전유진",
+      "part": "Backend",
+      "gitHubId": "jyj1289"
     }
   ]
 ]

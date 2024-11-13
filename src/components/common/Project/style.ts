@@ -7,7 +7,7 @@ export const Project = styled.div`
   flex-direction: column;
   width: 100%;
   height: 100%;
-  background: #fbfbfb;
+  background: #ffffff;
   border-radius: 7.5px;
 `;
 
@@ -15,6 +15,7 @@ export const ImgFrame = styled.div`
   height: 68.75%;
   width: 100%;
   padding: 16px;
+  background-color: #ffffff;
 `;
 
 export const Img = styled.img`
