@@ -16,9 +16,7 @@ export default function App() {
           'culture',
           'projects',
         ]}
-        render={({ state, fullpageApi }) => {
-          console.log('render prop change', state, fullpageApi);
-
+        render={() => {
           return (
             <>
               <div className="section">

@@ -29,7 +29,7 @@ export const InfoWrap = styled.div`
   justify-content: center;
   gap: 3px;
   height: 31.25%;
-  padding: 0px 24px;
+  padding: 52px 24px;
   border-top: 2px solid #f0f0f0;
 `;
 
